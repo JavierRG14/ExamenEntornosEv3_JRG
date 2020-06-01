@@ -1,0 +1,3 @@
+Linea 1 del fichero1
+Linea 2 del fichero1
+Ultima linea del fichero1
